@@ -23,3 +23,7 @@ python snake3d.py
 ```
 
 A window will open displaying the snake moving in a 3D grid. The game ends if the snake collides with itself or a wall. The autoplayer automatically steers the snake toward the food.
+
+## Playing Bario
+
+A small browser-based platformer is included in the `Bario` folder. Open `index.html` in a modern web browser. Use the arrow keys to move and jump. Reach the green flag to finish each level.
